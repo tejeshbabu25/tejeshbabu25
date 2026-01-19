@@ -68,8 +68,10 @@ Actively building **AI-enabled applications** using Azure services.
 ## 📜 Certifications
 
 ### ✅ Achieved
-![Azure](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue)
+
+![Azure](https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue)
 ![Azure](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-blue)
+![Azure](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue)
 ![PMP](https://img.shields.io/badge/PMP-Project%20Management-success)
 ![CSM](https://img.shields.io/badge/CSM-ScrumMaster-orange)
 
