@@ -10,10 +10,10 @@
 
 ## 🚀 Who Am I?
 
-💼 **Senior Software Engineer / Architect** with **12+ years** of experience  
+💼 **Senior Software Engineer / Architect** with **13+ years** of experience  
 🏦 Specialized in **Banking & Financial Services**  
 ☁️ **Azure-first** engineer with strong **.NET expertise**  
-📍 Buffalo, NY, USA  
+📍 NY, USA  
 
 I design and build **secure, scalable, cloud-native systems** while staying **deeply hands-on with code**.  
 My sweet spot is where **architecture, performance, security, and developer experience** meet.
@@ -135,49 +135,53 @@ Angular UI (Azure Static Web Apps)
         ├── Azure Key Vault
         ├── Azure AD Authentication
         └── Application Insights
+        
 🧩 Backend Highlights (.NET 8 API)
-Repository pattern (no ORM)
-Azure Managed Identity authentication
-Azure SQL token-based access
-Polly retry policies
-Chat completion API endpoint
-Document ingestion endpoint
-Embedding generation service
-Vector search integration
-Secure configuration loading
-Azure App Configuration integration
+- Repository pattern (no ORM)
+- Azure Managed Identity authentication
+- Azure SQL token-based access
+- Polly retry policies
+- Chat completion API endpoint
+- Document ingestion endpoint
+- Embedding generation service
+- Vector search integration
+- Secure configuration loading
+- Azure App Configuration integration
+
 🎨 Frontend Highlights (Angular 21)
-MSAL Angular authentication
-Azure AD login redirect
-Token-based API calls
-Chat UI interface
-Role-based access (AD groups)
-Secure API interceptor
-Environment-based configuration
-Azure Static Web App deployment
+- MSAL Angular authentication
+- Azure AD login redirect
+- Token-based API calls
+- Chat UI interface
+- Role-based access (AD groups)
+- Secure API interceptor
+- Environment-based configuration
+- Azure Static Web App deployment
+  
 ☁️ Azure Services Used
-Azure OpenAI
-Azure AI Search
-Azure App Service
-Azure Static Web Apps
-Azure App Configuration
-Azure Key Vault
-Azure AD / Entra ID
-Azure SQL (optional extension)
-Application Insights
+- Azure OpenAI
+- Azure AI Search
+- Azure App Service
+- Azure Static Web Apps
+- Azure App Configuration
+- Azure Key Vault
+- Azure AD / Entra ID
+- Azure SQL (optional extension)
+- Application Insights
+  
 🔐 Security Design
-Azure AD SSO login
-Token-based API authorization
-Managed Identity access to Azure services
-Key Vault secret storage
-App Configuration centralized config
-Role-based access using AD groups
+- Azure AD SSO login
+- Token-based API authorization
+- Managed Identity access to Azure services
+- Key Vault secret storage
+- App Configuration centralized config
+- Role-based access using AD groups
 
 ---
 
 ## 🧠 Beyond Engineering
 
-🏏 Captain & organizer of local **cricket teams**  
+🏏 Love playing sports like Cricket, Basketball, Soccer
 🏋️ Committed to **fitness & discipline**  
 📚 Continuous learner & mentor  
 👨‍👩‍👧‍👦 Family-first mindset  
