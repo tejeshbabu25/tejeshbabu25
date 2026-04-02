@@ -101,19 +101,77 @@ Actively building **AI-enabled applications** using Azure services.
 
 ## 📌 Featured Projects
 
-🔹 **Azure Task Tracker**  
-> End-to-end Azure + .NET application showcasing identity, APIs, and cloud patterns.
+🤖 Enterprise AI Knowledge Assistant (Flagship Project)
+🧠 Enterprise GenAI Application — Angular + .NET 8 + Azure OpenAI
 
-🔹 **.NET 8 Clean Architecture API**  
-> Production-ready API with security, logging, resiliency & performance best practices.
+An enterprise-grade AI knowledge assistant that enables users to securely chat with internal documents using Azure OpenAI + Vector Search, built using Angular UI + .NET API + Azure services.
 
-🔹 **Microservices Interview Playground**  
-> Practical implementations of microservices concepts for interviews.
+This project demonstrates production-ready enterprise AI architecture.
 
-🔹 **Angular + .NET Full-Stack Starter**  
-> Modern Angular frontend with enterprise-ready backend APIs.
+✨ Key Capabilities
 
-*(Pin these repositories on your GitHub profile for best visibility)* -TBD
+🔐 Azure AD SSO Authentication (MSAL Angular)
+💬 Chat-based AI assistant UI
+📄 Document ingestion pipeline
+🧠 Azure OpenAI embeddings generation
+🔎 Azure AI Search vector retrieval
+⚡ .NET 8 REST API backend
+🎨 Angular 21 frontend
+☁️ Azure App Service deployment
+🔑 Managed Identity authentication
+📊 Application Insights logging
+⚙️ Azure App Configuration integration
+🛡️ Secure Key Vault secret management
+
+🏗️ Architecture Overview
+Angular UI (Azure Static Web Apps)
+        │
+        ▼
+.NET 8 API (Azure App Service)
+        │
+        ├── Azure OpenAI (Chat + Embeddings)
+        ├── Azure AI Search (Vector DB)
+        ├── Azure App Configuration
+        ├── Azure Key Vault
+        ├── Azure AD Authentication
+        └── Application Insights
+🧩 Backend Highlights (.NET 8 API)
+Repository pattern (no ORM)
+Azure Managed Identity authentication
+Azure SQL token-based access
+Polly retry policies
+Chat completion API endpoint
+Document ingestion endpoint
+Embedding generation service
+Vector search integration
+Secure configuration loading
+Azure App Configuration integration
+🎨 Frontend Highlights (Angular 21)
+MSAL Angular authentication
+Azure AD login redirect
+Token-based API calls
+Chat UI interface
+Role-based access (AD groups)
+Secure API interceptor
+Environment-based configuration
+Azure Static Web App deployment
+☁️ Azure Services Used
+Azure OpenAI
+Azure AI Search
+Azure App Service
+Azure Static Web Apps
+Azure App Configuration
+Azure Key Vault
+Azure AD / Entra ID
+Azure SQL (optional extension)
+Application Insights
+🔐 Security Design
+Azure AD SSO login
+Token-based API authorization
+Managed Identity access to Azure services
+Key Vault secret storage
+App Configuration centralized config
+Role-based access using AD groups
 
 ---
 
@@ -126,6 +184,7 @@ Actively building **AI-enabled applications** using Azure services.
 
 I value **long-term growth, meaningful work, and strong engineering culture**.
 
+![Repository](https://github.com/tejeshbabu25/azure-enterprise-ai-knowledge-assistant)
 ---
 
 ## 🤝 Let’s Connect
